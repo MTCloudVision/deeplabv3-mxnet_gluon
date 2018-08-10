@@ -68,11 +68,15 @@ Meanwhile,our code incude Vortex pooling(the improvement of ASPP in DeepLabV3) ,
 
 ​    **Mean Intersection over Union(mean Iou):**   Train:~83%, Val:~73%
 
+<200b>    **Donwload model at[here](https://pan.baidu.com/s/1OAI7syEaYodPWUIkj4NtAA),password:8gno
+
 (2)add the last 30K iterator.
 
 ​     **Pixel accuracy:**   Train:~96%, Val:~96%    
 
 ​     **Mean Intersection over Union(mean Iou):**   Train:~83%, Val:~77%
+
+<200b>    **Donwload model at[here](https://pan.baidu.com/s/1bsIPQQ9eHX8OzCOmnAQI6A),password:ycgi
 
 
 
